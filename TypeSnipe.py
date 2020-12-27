@@ -264,7 +264,7 @@ clickTextColour3 = WHITE
 
 
 
-#Setting loops to false so I can use them later
+#Setting loops to false so they can be used them later
 main = True
 menu = False
 game = False
