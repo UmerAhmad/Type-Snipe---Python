@@ -1,6 +1,6 @@
 #   Umer Ahmad
 #   January 8, 2018
-#   This program is a game where you can shoot ships by typing out the words on them.
+#   This program is a game where you can shoot ships by typing out the words on them
 
 import pygame
 import sys
