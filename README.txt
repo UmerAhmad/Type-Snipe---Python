@@ -8,10 +8,4 @@ HOW TO PLAY - Simply use the python file and run it, everything is done inside (
 
 EXAMPLEs:
 
-![alt text](examples/example1.PNG)
-
-
-![alt text](https://github.com/UmerAhmad/Type-Snipe---Python-PyGame/blob/master/examples/example2.PNG)
-
-
-![alt text](https://github.com/UmerAhmad/Type-Snipe---Python-PyGame/blob/master/examples/example3.PNG)
+![alt text](https://github.com/UmerAhmad/Type-Snipe---Python-PyGame/blob/master/examples/example1.PNG)
