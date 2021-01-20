@@ -12,8 +12,8 @@ EXAMPLEs:
 
 
 
-![alt text](https://github.com/UmerAhmad/Metacritic-Data-Analysis/blob/main/images/movies%20example%20-%20jan%2018%202021.PNG)
+![alt text](https://github.com/UmerAhmad/Type-Snipe---Python-PyGame/blob/master/examples/example2.PNG)
 
 
 
-![alt text](https://github.com/UmerAhmad/Metacritic-Data-Analysis/blob/main/images/tv%20example%20-%20jan%2018%202021.PNG)
+![alt text](https://github.com/UmerAhmad/Type-Snipe---Python-PyGame/blob/master/examples/example3.PNG)
