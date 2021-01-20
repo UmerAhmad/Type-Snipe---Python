@@ -8,6 +8,10 @@ HOW TO PLAY - Simply use the python file and run it, everything is done inside (
 
 EXAMPLEs:
 
+(sound not on in gif)
+![alt text](https://github.com/UmerAhmad/Type-Snipe---Python-PyGame/blob/master/examples/examplegif.gif)
+
+
 ![alt text](https://github.com/UmerAhmad/Type-Snipe---Python-PyGame/blob/master/examples/example1.PNG)
 
 
